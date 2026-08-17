@@ -1,11 +1,13 @@
-# Hi, I'm [Your Name] 👋 Realtime Embedded Systems Designer, Engineering Manager, and Cybersecurity Champion.
+# Hi, I'm Adrien HL 👋 Realtime Embedded Systems Designer, Engineering Manager, and Cybersecurity Champion.
 
 ![Years of Experience](https://img.shields.io/badge/Embedded%20Systems-~20%20years-blue) &nbsp;
 ![Role](https://img.shields.io/badge/Role-Engineering%20Software%20Manager-informational) &nbsp;
 ![Focus](https://img.shields.io/badge/Focus-Safety--Critical%20%7C%20Secure--by--Design-critical) &nbsp;
 ![RTOS](https://img.shields.io/badge/RTOS-VxWorks%20%7C%20FreeRTOS%20%7C%20Zephyr-orange) &nbsp;
-![Standards](https://img.shields.io/badge/Standards-IEC%2061508%20%7C%20ISO%2026262-yellow)
-<sub>(badges optional — edit or remove freely)</sub>
+![Standards](https://img.shields.io/badge/Standards-IEC%2061508%20%7C%20ISO%2026262%20%7C%20MISRA-yellow) &nbsp;
+![Languages](https://img.shields.io/badge/Languages-C17%20%7C%20C%2B%2B17-lightgrey) &nbsp;
+![Delivery](https://img.shields.io/badge/Delivery-Agile%20(Scrum%20%7C%20Kanban)-brightgreen) &nbsp;
+![Security](https://img.shields.io/badge/Security-Champion-red)
 
 ## About Me
 
@@ -13,7 +15,7 @@ I've spent close to two decades designing realtime and safety-critical embedded 
 
 ## What I do day-to-day
 
-- Lead and grow software engineering teams across multiple sites and plants
+- Lead and grow software engineering teams across multiple sites and plants, running delivery through Agile frameworks (Scrum / Kanban)
 - Champion secure-by-design practices and threat modelling across the software org
 - Write and review code to stay close to real implementation challenges
 - Bridge safety-critical requirements (IEC 61508 / ISO 26262) with practical delivery
@@ -21,38 +23,29 @@ I've spent close to two decades designing realtime and safety-critical embedded 
 
 ## Technical focus areas
 
-- **Languages:** C17, C++17
-- **RTOS:** VxWorks, FreeRTOS, ThreadX, RTEMS, Zephyr
-- **Standards & Compliance:** IEC 61508, ISO 26262, MISRA
-- **Security:** Secure boot, OTA updates, threat modelling, secure-by-design engineering
-- **Build & CI/CD:** Buildroot, Yocto, Bazel, CI/CD pipelines for embedded systems
-- **Middleware & Comms:** gRPC, Data Distribution Service (DDS)
-
-*(Starting point — edit freely to match your actual stack.)*
+- **Languages:** C17, C++17, with practical use of scripting/tooling languages such as Python or Bash where appropriate
+- **Embedded software architecture:** realtime control systems, safety-critical software, distributed embedded systems, bootloaders, BSPs, drivers, and edge platforms
+- **RTOS & platforms:** VxWorks, FreeRTOS, ThreadX, RTEMS, Zephyr, bare-metal firmware, and POSIX/Linux-based embedded environments
+- **Standards & compliance:** IEC 61508, ISO 26262, MISRA, and growing interest in CRA-aligned software engineering practices
+- **Security engineering:** secure boot, OTA updates, code signing, threat modelling, secure-by-design principles, vulnerability management, and SBOM-aware development
+- **Build systems & CI/CD:** Buildroot, Yocto, Bazel, CMake, cross-compilation toolchains, automated build pipelines, and embedded-focused CI/CD workflows
+- **Middleware & communications:** gRPC, Data Distribution Service (DDS), MQTT, OPC UA, SOME/IP, and other embedded/industrial communication stacks where relevant
+- **Quality & verification:** static analysis, MISRA checking, unit testing, integration testing, fuzzing, code coverage, and validation pipelines for embedded targets
+- **Engineering leadership:** secure software development practices, technical mentoring, architecture reviews, Agile delivery frameworks (Scrum, Kanban), and security champion activities within engineering teams
 
 ## Leadership & community
 
-I mentor engineers across teams and coordinate technical decisions across multiple plants, aligning practices without slowing anyone down. As Cybersecurity Champion, part of my mission is preparing teams for the EU Cyber Resilience Act (CRA) and embedding security thinking into everyday engineering, not just compliance checklists.
+I direct software engineering strategy across distributed teams and multiple plants, establishing unified technical standards that scale delivery velocity while maintaining architectural rigor. As an organizational Cybersecurity Champion, I drive a cultural shift toward secure-by-design engineering—translating complex regulatory frameworks like the EU Cyber Resilience Act (CRA) into pragmatic, everyday development practices that mitigate enterprise risk rather than merely checking compliance boxes.
 
 ## Currently exploring / learning
 
-I'm keeping an eye on how CRA compliance reshapes embedded software practices, and exploring [emerging tools/technology — placeholder] to sharpen how I approach secure-by-design engineering.
+I’m keeping an eye on how CRA compliance reshapes embedded software practices, and exploring SBOM tooling, vulnerability management, threat modeling, fuzz testing, and memory-safe development to sharpen how I approach secure-by-design engineering.
 
 ## Let's connect
 
 Always happy to talk embedded systems, safety-critical software, or security engineering.
 
-- LinkedIn: [your LinkedIn URL]
-- Email: [your email]
+- LinkedIn: https://www.linkedin.com/in/adrienHl
+- Email: adrien dot happil ad gmail dot com
 
 ---
-
-### How to customise
-
-- Replace `[Your Name]` in the header tagline.
-- Fill in `[LinkedIn URL]` and `[email]` under "Let's connect".
-- Replace `[emerging tools/technology — placeholder]` with what you're actually exploring.
-- Edit the **Technical focus areas** list to match your real stack — add/remove items freely.
-- Add real company/plant names or certifications only if you want them public (none were invented here).
-- Adjust or remove the badges — they're optional and purely illustrative.
-- Consider adding a GitHub stats card or contribution graph if you want more visuals.
